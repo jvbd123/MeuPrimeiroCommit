@@ -1,0 +1,16 @@
+História do Git
+
+O Git foi criado por Linus Torvalds, o mesmo criador do sistema operacional Linux, em 2005. Seu desenvolvimento começou após uma controvérsia com o uso do BitKeeper, uma ferramenta de controle de versão proprietária que estava sendo utilizada pela comunidade do kernel Linux. Quando o acesso gratuito ao BitKeeper foi revogado, tornou-se urgente a criação de uma alternativa livre e eficiente.
+
+O principal objetivo do Git era suprir as necessidades do desenvolvimento do kernel Linux, um projeto colaborativo de larga escala. Por isso, ele foi criado com foco em desempenho, segurança, flexibilidade e suporte ao trabalho distribuído. Isso significa que cada desenvolvedor pode ter uma cópia completa do repositório em sua máquina, o que aumenta a velocidade das operações e oferece maior segurança.
+
+Com o tempo, o Git se popularizou e passou a ser usado em projetos de todos os tamanhos, tornando-se a ferramenta de controle de versão mais utilizada no mundo. Ele permite acompanhar as mudanças feitas em arquivos ao longo do tempo, colaborar com outras pessoas de forma eficiente e manter o histórico de desenvolvimento de software de maneira organizada.
+
+Hoje, o Git é essencial em projetos profissionais, educacionais e pessoais, sendo amplamente integrado a plataformas como GitHub, GitLab e Bitbucket.
+
+Principais características do Git:
+- Sistema distribuído de controle de versão
+- Rápido e eficiente
+- Seguro contra alterações indesejadas
+- Ideal para trabalho colaborativo
+- Open Source (código aberto)
